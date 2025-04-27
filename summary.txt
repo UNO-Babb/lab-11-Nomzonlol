@@ -1,0 +1,6 @@
+I adjusted the numberCheckers to 5 for the 1st run and the average wait time was 4.02 minutes with total idle time of 23 minutes. 
+Then I adjusted the numberCheckers to 100 for the 2nd run and the average wait time was 1.75 minutes with total idle time of 
+1648 minutes.Finally I adjusted it to 90 for the 3rd run and the average wait time was 1.70 minutes with total idle time of 16051
+minutes.The results suggest that as the idle time for checkers increases dramatically (from 23 to 1648 to 16051 minutes), the 
+average customer wait time actually decreases (from 4.02 to 1.75 to 1.70 minutes).The simulation helps demonstrate how different
+staffing configurations might impact both customer experience and operational efficiency in a retail environment.
